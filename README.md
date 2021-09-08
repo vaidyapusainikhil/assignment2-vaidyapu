@@ -15,14 +15,14 @@ New York City comprises 5 boroughs sitting where the **Hudson River** meets the 
 ---
 
 ### Products to be packed for enjoyment.
-    - Comfortable Shoes.
-    - Weather Appropriate, Layered Attire.
-    - Light Jacket.
-    - Purse/Backpack.
-    - Camera.
-    - Extra Batteries/Charger.
-    - Refillable Water Bottle.
-    - Extra Cash.
+* Comfortable Shoes.
+* Weather Appropriate, Layered Attire.
+* Light Jacket.
+* Purse/Backpack.
+    * Camera.
+    * Extra Batteries/Charger.
+    * Refillable Water Bottle.
+* Extra Cash.
 
 ---
 
