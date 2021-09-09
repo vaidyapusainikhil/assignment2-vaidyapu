@@ -26,4 +26,17 @@ New York City comprises 5 boroughs sitting where the **Hudson River** meets the 
 
 **[To know more about me](AboutMe.md)**
 
+---
+
+This table shows location and Amount of Foods.
+
+| *Food*                | *Location*      | *Amount*         |
+| --------------------- | ----------------| -----------------|
+| Biryani               | Suryapet        | 200 INR          |
+| Macher Jhol           | Kolkata         | 250 INR          |
+| Vada pav              | Mumbai          | 100 INR          |
+| Ghevar                | Rajastan        | 150 INR          |
+
+---
+
 
